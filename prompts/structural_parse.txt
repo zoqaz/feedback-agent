@@ -1,0 +1,36 @@
+You are a strict data parser.
+
+Convert the workout text below into valid JSON that exactly matches the schema.
+
+Rules:
+- Output JSON only. No explanations, no markdown.
+- Preserve the original order of days and exercises.
+- Lines like "Push Day 1", "Pull Day 2", "Leg Day 1", or "Day 1" are day headers.
+- Group all following exercises under the most recent day header.
+- "Warm Up" is allowed as an exercise.
+- Lines like "4 sets 3-12 reps" describe the nearest exercise.
+- If a sets/reps line appears before an exercise name, attach it to the next exercise.
+- If sets or reps are missing, use null.
+- Do not infer or modify exercise names beyond basic spacing cleanup.
+- Do not drop any exercises.
+
+Schema:
+{{
+"days": [
+    {{
+    "name": string,
+    "exercises": [
+        {{
+        "name": string,
+        "sets": number | null,
+        "reps": string | null
+        }}
+    ]
+    }}
+]
+}}
+
+Workout text:
+<<<
+{clean_text}
+>>>

@@ -1,0 +1,18 @@
+paths:
+  image_path: images/u3lfuo6f1n4g1.jpeg
+  catalog_csv: exercise_catalog_data.csv
+  default_routine_json: outputs/u3lfuo6f1n4g1/parsed_extract.json
+outputs:
+  base_dir: outputs
+  parsed_filename: parsed_extract.json
+  matched_filename: matched_extract.json
+  reviewed_filename: matched_extract_reviewed.json
+matching:
+  fuzzy_threshold: 0.7
+ocr:
+  tesseract_config: |-
+    --oem 3
+    --psm 3
+    -c preserve_interword_spaces=1
+review:
+  exercises_txt: exercise_backlog.txt

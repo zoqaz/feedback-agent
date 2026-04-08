@@ -1,0 +1,214 @@
+{
+  "days": [
+    {
+      "name": "Push Day 2",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Incline Chest Press (machine)"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Seated Shoulder Press (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Push Down (cable)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Tricep Kickback (cable)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Chest Dip (machine)"
+        }
+      ]
+    },
+    {
+      "name": "Push Day 1",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Arnold Press (dumbbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Overhead Tricep Extension (cable)"
+        },
+        {
+          "sets": null,
+          "reps": null,
+          "exercise": "Incline Bench Press (dumbbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Lateral Raise (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Seated Chest Fly (machine)"
+        }
+      ]
+    },
+    {
+      "name": "Pull Day 2",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Seated Row (cable)"
+        },
+        {
+          "sets": 4,
+          "reps": "3-15",
+          "exercise": "Pulldown (cable)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Preacher Curl (barbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Reverse Fly (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Wrist Extension (barbell)"
+        }
+      ]
+    },
+    {
+      "name": "Day 1",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Pull Up (machine)"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Row (barbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Incline Curl (dumbbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Shrug (dumbbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Face Pull (cable)"
+        }
+      ]
+    },
+    {
+      "name": "Leg Day 2",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Calf Press (machine)"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Hip Thrust (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Lying Leg Curl (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Seated Calf Raise (smith)"
+        },
+        {
+          "sets": 2,
+          "reps": null,
+          "exercise": "Farmer's Walk (dumbbell)"
+        }
+      ]
+    },
+    {
+      "name": "Leg Day 1",
+      "exercises": [
+        {
+          "sets": 1,
+          "reps": null,
+          "exercise": "Warm Up"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Squat (barbell)"
+        },
+        {
+          "sets": 4,
+          "reps": "3-12",
+          "exercise": "Romanian Deadlift (barbell)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Leg Extension (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Seated Leg Curl (machine)"
+        },
+        {
+          "sets": 2,
+          "reps": "10-15",
+          "exercise": "Seated Calf Raise (machine)"
+        }
+      ]
+    }
+  ]
+}
